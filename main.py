@@ -1,0 +1,2 @@
+print("pratik")
+print("rohit")
